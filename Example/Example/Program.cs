@@ -14,6 +14,9 @@ namespace Example
             Console.ReadLine();
             Console.WriteLine("Hi Willy, How are you?");       
             Console.WriteLine("Hello Ginger");
+            Console.WriteLine("Ginger 2");
+
+
             Console.ReadLine();
         }
     }
